@@ -7,10 +7,10 @@ import s3fs
 def run_twitter_etl():
 
     # API credentials
-    consumer_key = "o6gC6rXjXxR9vbdPmSHfHE240"
-    consumer_secret = "VHJMJqhPRHL6XdwqDEKkna2DZaGOaXrYyq16dHrAsX4zsAWREc"
-    access_token = "1894101610701209600-1SEh0aSlT6GAHabyfQg0P9AGo63pMq"
-    access_token_secret = "nOioQObZkvFBbMTqjiLwh7AKJwl2a80YDPeBGeAhNYATe"
+    consumer_key = "key"
+    consumer_secret = "key"
+    access_token = "key"
+    access_token_secret = "key"
 
     # Correct authentication setup
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
