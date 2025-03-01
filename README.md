@@ -1,5 +1,3 @@
-# TwitterDataPipelineUsingAirflow
-
 # Twitter Data Pipeline Using Apache Airflow
 
 ## Overview
